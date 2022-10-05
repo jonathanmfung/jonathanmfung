@@ -1,4 +1,5 @@
 Personal Website: [jonathanmfung.github.io](https://jonathanmfung.github.io)
+Personal Notes: [Totality](https://github.com/jonathanmfung/Totality)
   
 ## Projects
 <!-- Format table with Emacs -->
