@@ -1,7 +1,5 @@
 Personal Website: [jonathanmfung.github.io](https://jonathanmfung.github.io)
 
-Personal Notes: [Totality](https://github.com/jonathanmfung/Totality)
-  
 ## Projects
 <!-- Format table with Emacs -->
 
@@ -12,6 +10,6 @@ Personal Notes: [Totality](https://github.com/jonathanmfung/Totality)
 | [ProbTheory.jl](https://github.com/jonathanmfung/ProbTheory.jl)                                                    | Visualize basic probability theory concepts              | Julia       | Probability, Visualization             |
 | [SimpleTernaryLogic](https://github.com/jonathanmfung/SimpleTernaryLogic)                                          | Evaluate ternary logic expressions under various systems | Haskell     | Formal Logic, Library Development      |
 | [tidytuesday](https://github.com/jonathanmfung/tidytuesday)                                                        | Personal Playground of tidytuesday                       | R           | Statistics, Exploration                |
-| [dotfiles](https://github.com/jonathanmfung/dotfiles)                                                                | Personal Setup                                           | Bash, misc. | Linux, Scripting                       |
+| [dotfiles](https://github.com/jonathanmfung/dotfiles)                                                              | Personal Setup                                           | Bash, misc. | Linux, Scripting                       |
 | [MetAPI.el](https://github.com/jonathanmfung/MetAPI.el)                                                            | Fetch and display art pieces from The Met, in Emacs      | Emacs Lisp  | Emacs, REST API                        |
 
