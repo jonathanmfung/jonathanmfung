@@ -1,4 +1,4 @@
-Personal Website: [jonathanmfung.github.io](https://jonathanmfung.github.io)
+Personal Website: [jonathanmfung.com](https://jonathanmfung.com)
 
 ## Projects
 <!-- Format table with Emacs -->
